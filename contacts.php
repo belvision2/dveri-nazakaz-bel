@@ -1,8 +1,8 @@
 <?php
 if (isset ($_POST['phone'])) {
-  $to = "375291444400@sms.velcom.by,375291027027@sms.velcom.by,vitaminiby@ya.ru,vlad_abramov@tut.by"; // поменять на свой электронный адрес
+  $to = "375296126565@sms.velcom.by,vitaminiby@ya.ru,vlad_abramov@tut.by"; // поменять на свой электронный адрес
   $from = "vitaminiby@ya.ru";
-  $subject = "готовый проект ";
+  $subject = "готовый проект двери.назаказ.бел ";
   $message = "Имя: ".$_POST['name']."\nТелефон: ".$_POST['phone']."\nIP: ".$_SERVER['REMOTE_ADDR']."\n ".$_POST['messageFF']."\n ".$_SERVER['HTTP_REFERER'];
   $boundary = md5(date('r', time()));
   $filesize = '';

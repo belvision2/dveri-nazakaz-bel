@@ -4,6 +4,7 @@ $material = 'экошпон, мебельный щит';
 $karkas = 'LVL-брус';
 
 $arr = array('Порта-21 Cappuccino Veralinga', ' Порта-22 Cappuccino Veralinga', 'Порта-М1 Wenge Veralinga', 'Порта-V4 Wenge Veralinga', 'Порта-21 Wenge Veralinga', 'Порта-22 Wenge Veralinga', 'Порта-23 Wenge Veralinga', 'Порта-М1 Grey Veralinga', 'Порта-V4 Grey Veralinga', 'Порта-21 Grey Veralinga', 'Порта-22 Grey Veralinga', 'Порта-23 Grey Veralinga', 'Порта-М1 Bianco Veralingа', 'Порта-21 Bianco Veralingа', 'Порта-22 Bianco Veralingа', 'Порта-23 Bianco Veralingа','ПОРТА-23 Cappuccino Veralinga','V4-MAGIC-FOG Cappuccino Veralinga','V4-MAGIC-FOG Bianco Veralinga');
+
 $prais_new_026 = 229; //Порта-21	
 $prais_new_027 = 229; //Порта-22
 $prais_new_028 = 269; //Порта-м1	

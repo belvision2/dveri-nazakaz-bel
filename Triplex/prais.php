@@ -2,6 +2,9 @@
 
 $arr = array('Тriplex Белый', 'Тriplex Чёрный');
 
+
+
+
 $prais_new_026 = 452; //	Тriplex Белый
 $prais_new_027 = 452; //	Тriplex Чёрный
 

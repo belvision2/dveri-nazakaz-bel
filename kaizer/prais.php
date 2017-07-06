@@ -5,7 +5,6 @@ $karkas = '2 контура';
 
 $arr = array('Kaiser Модель D 105, 2 створки ', 'Kaiser К600 ', 'Kaiser К 550 ', 'Ясин Е40 Ясин Е40 ', 'Ясин E 01A');
 
-
 $prais_new_026 = 441; //	Kaiser Модель D 105, 2 створки
 $prais_new_027 = 221; //	Kaiser К600
 $prais_new_028 = 255; //	Kaiser К 550

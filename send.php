@@ -33,7 +33,7 @@ $text2 = $output['utm_text2']; // текст обьявления 2
 $phrase = urldecode($where); 
 
 
-  $to  = '375296126565@sms.velcom.by,vitaminiby@ya.ru'; 
+  $to  = 'vitaminiby@ya.ru';
  $klient  = '375296126565@sms.velcom.by,vlad_abramov@tut.by'; //
 $subject = 'двери.назаказ - '.$user_phone.'';
 $from = "$name";
